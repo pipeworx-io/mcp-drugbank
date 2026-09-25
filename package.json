@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-drugbank",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "DrugBank MCP — wraps the DrugBank Clinical API (api.drugbank.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-ce7daa77d89ad7de677d7ba216d5509d4a915daf234da421279cbe4a16e7b9e5",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-b0561e15acdc1cc43ea9c3176191c4393c0d08ec7847393363336904bf11b1be",
+    "sourceCommit": "4fa4c64448be06f4a2ee4cee19f756f3558a7cad"
   }
 }
